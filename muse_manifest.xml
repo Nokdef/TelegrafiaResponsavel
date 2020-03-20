@@ -1,0 +1,116 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.com" resolutions="1x" timestamp="1584662078835">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4037503453" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="vid_lunarbarrage.gif" crc="294085511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="vid_blackhole.gif" crc="4260930205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vid_arcanemissile.gif" crc="154980546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vid_dimensionalhop.gif" crc="137562068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vid_faeorb.gif" crc="217169477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1013-4.png" crc="4172668779" ref="index"/>
+    <file name="logo_jd_transparente.png" crc="3836418335" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unisologo.png" crc="520091683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1526-4.png" crc="4293829661" ref="index"/>
+    <file name="u1053-4.png" crc="179778535" ref="index"/>
+    <file name="u1054-4.png" crc="227015488" ref="index"/>
+    <file name="u1055-4.png" crc="474338513" ref="index"/>
+    <file name="u1323-4.png" crc="3769094709" ref="index"/>
+    <file name="u1324-4.png" crc="3826025317" ref="index"/>
+    <file name="u1370-4.png" crc="31415232" ref="index"/>
+    <file name="header_lunarbarrage.png" crc="3936241687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1535-4.png" crc="425155731" ref="index"/>
+    <file name="header_gameplay.jpg" crc="182802690" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1557-4.png" crc="483508246" ref="index"/>
+    <file name="u1594-4.png" crc="3777401101" ref="index"/>
+    <file name="focal_inkpool.png" crc="4025728607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="focalpoint_primarysecondary.png" crc="4255208659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1689-4.png" crc="4174590886" ref="index"/>
+    <file name="levelimportancesmall.png" crc="136902423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levelimportancemedium.png" crc="3875710897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levelimportancemax.png" crc="122246832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arcanemissilespot.png" crc="3810283495" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1665-4.png" crc="197544246" ref="index"/>
+    <file name="u1771-4.png" crc="273960025" ref="index"/>
+    <file name="u1777-4.png" crc="4075563700" ref="index"/>
+    <file name="valuesshowcasehealingshield.jpg" crc="50501541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valuesshowcasehealingshield_threshhold.jpg" crc="239689605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1856-4.png" crc="17858085" ref="index"/>
+    <file name="visualenhance.png" crc="316764390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1893-4.png" crc="213509532" ref="index"/>
+    <file name="focalpointcontrast.png" crc="137156315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contrastshowcase.jpg" crc="4226509987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1915-4.png" crc="3869691174" ref="index"/>
+    <file name="u1927-4.png" crc="214482567" ref="index"/>
+    <file name="inky_collorpallet.png" crc="3853421848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trickster collorpallete.png" crc="45021865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fairytrickster_vfxpallete.jpg" crc="47701334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="finais.jpg" crc="3855159624" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1990-4.png" crc="3876718273" ref="index"/>
+  </folder>
+  <file name="index.html" crc="448993676" seo="true" mt="1584662075745" redirect="true"/>
+</manifest>
